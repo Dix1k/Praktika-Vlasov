@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Practice%20Working%20With%20Git&fontSize=50&fontAlignY=35&desc=ПИНб-31%20•%20Учебные%20проекты&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Practice%20Working%20With%20Git&fontSize=50&fontAlignY=35&desc=ПИНб-31%20•%20Практика&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
 </div>
 
 ## 👨‍💻 О себе
